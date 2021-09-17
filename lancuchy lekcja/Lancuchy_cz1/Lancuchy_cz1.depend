@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611928099 source:/home/student/Documents/ZSTI/Informatyka_rozszerzona_klasa2/Lancuchy/Lancuchy_cz1/main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

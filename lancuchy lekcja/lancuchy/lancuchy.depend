@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631886695 source:c:\users\uczen\documents\lancuchy\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
