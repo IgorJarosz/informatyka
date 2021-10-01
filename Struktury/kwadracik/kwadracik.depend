@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633096488 source:c:\users\uczen\documents\kwadracik\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
