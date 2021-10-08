@@ -1,0 +1,9 @@
+Zmodyfikuj program zapisujący i odczytujący struktury:
+struct uczen{
+char imie[roz_imienia];
+char nazwisko[roz_nazwiska];
+char przedmiot[roz_przedmiot];
+int oceny[ilosc_ocen];
+}
+
+Wypisz dla każdego ucznia średnią jego ocen.
