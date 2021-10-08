@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633701738 source:c:\users\uczen\documents\odczyt_baza_uczen\main.cpp
+	<iostream>
+	<fstream>
+
