@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582134669 source:/home/student/Documents/ZSTI/klasa3_Informatyka_rozszerzona/Sortowanie/Babelkowe/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
