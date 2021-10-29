@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1633375130 source:/home/student/Documents/ZSTI/Klasy 3/Struktury_i_pliki/Formatowanie_zapisu_do_pliku/Odczyt_struktury_z_pliku/main.cpp
+	<iostream>
+	<fstream>
+
+1634095548 source:/home/student/Documents/ZSTI/Klasy 3/Wyszukiwanie_danych_w_pliku_rekordowym/Odczyt_struktury_z_pliku/main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstring>
+
+1635516207 source:c:\users\uczen\desktop\wyszukiwanie_danych_w_pliku_rekordowym\odczyt_struktury_z_pliku\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstring>
+
